@@ -1,0 +1,7 @@
+C:\Users\JoshB\OneDrive\Room Calculator\Room Calculator\bin\Debug\Room Calculator.exe.config
+C:\Users\JoshB\OneDrive\Room Calculator\Room Calculator\bin\Debug\Room Calculator.exe
+C:\Users\JoshB\OneDrive\Room Calculator\Room Calculator\bin\Debug\Room Calculator.pdb
+C:\Users\JoshB\OneDrive\Room Calculator\Room Calculator\obj\Debug\Room Calculator.csprojAssemblyReference.cache
+C:\Users\JoshB\OneDrive\Room Calculator\Room Calculator\obj\Debug\Room Calculator.csproj.CoreCompileInputs.cache
+C:\Users\JoshB\OneDrive\Room Calculator\Room Calculator\obj\Debug\Room Calculator.exe
+C:\Users\JoshB\OneDrive\Room Calculator\Room Calculator\obj\Debug\Room Calculator.pdb
